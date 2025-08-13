@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://orangeharvest.store/sitemap.xml
